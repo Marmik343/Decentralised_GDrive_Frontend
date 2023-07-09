@@ -1,4 +1,4 @@
-#**Decentralised GDrive**
+#Decentralised GDrive
 
 This project let's users upload thier images on Pinata, can give access to other users too.
 
